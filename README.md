@@ -1,16 +1,16 @@
 # Como rodar o projeto
 
 1. Clone este repositório:
-   `git clone https://github.com/SeuUsuario/projeto.git`
+   `git clone https://github.com/JeffersonMeira99/matchmaking.git`
 
 2. Instale as dependências:
    `npm install`
 
 3. Rode o servidor:
-   `npm start`
+   `npm run dev`
 
 4. Acesse o projeto no navegador:
-   `http://localhost:3000`
+   `http://localhost:5173/)`
 
 # Decisões tomadas
 
